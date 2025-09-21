@@ -1,6 +1,4 @@
 # TinDog Project
-To fiure out which Bootstrap components/snippets are used.
-
 
 ## SVGs:
 
